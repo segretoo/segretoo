@@ -39,8 +39,9 @@
 <br/><br/> 
 
 <h2>💻 Contact Me 💻</h2>
-<a href="mailto:segreto8867@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/segretoo"> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>  
+<a href="mailto:segreto8867@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://github.com/segretoo"> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> 
+<a href="https://berry-camelotia-3f1.notion.site/118e42e876d9806a983adbf55f401fc9"> <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /> </a> 
   
 <br/><br/><br/><br/> 
   
