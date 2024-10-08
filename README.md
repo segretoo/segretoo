@@ -6,7 +6,11 @@
 
 안녕하세요. <strong>프론트엔드 개발자 김문정</strong>입니다.<br>
 "새로운 기술을 자기 주도적으로 학습하고 문제 해결을 통해 지속적으로 성장하는 프론트엔드 개발자입니다." 
-  
+
+<br/><br/> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <br/><br/>      
   
 <h2>🛠️ Tech Stacks 🛠️</h2>
@@ -35,8 +39,12 @@
 
 <br/>
 
-<a href="https://github.com/segretoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=segretoo&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Moonjeong's github stats" /></a>
-<a href="https://github.com/segretoo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segretoo&layout=compact&theme=default&hide_border=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=segretoo" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=segretoo&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br/><br/> 
 
