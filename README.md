@@ -34,6 +34,10 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
 
+<h3>AI & APIs</h3>
+<img src="https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
 <h3>Infra & Tools</h3>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
