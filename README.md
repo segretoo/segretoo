@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=segretoo&color=3D6CC8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=segretoo&color=blue&style=for-the-badge)
 
 <br/><br/>
 
