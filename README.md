@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://img.shields.io/badge/dynamic/json?color=3D6CC8&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dsegretoo%26base%3D1000%26format%3Djson&style=for-the-badge)](https://github.com/segretoo)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsegretoo&count_bg=%233D6CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/><br/>
 
