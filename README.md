@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=segretoo&color=blue&style=for-the-badge)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?color=3D6CC8&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dsegretoo%26base%3D1000%26format%3Djson&style=for-the-badge)](https://github.com/segretoo)
 
 <br/><br/>
 
